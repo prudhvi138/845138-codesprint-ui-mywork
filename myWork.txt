@@ -1,0 +1,23 @@
+My associate id:
+845138
+Other team members:
+845138, 845138, 845026, 845141, 845087
+Team lead:
+845087
+My Role in team:
+1. I developed the local storage ,viewOrderList page and made validations for placeOrder form
+My development files:
+1.viewOrderList.html
+2.script.js
+3.placeOder form(validation)
+I was strong in:
+1. HTML
+2.BootStrap
+3. java Script
+I was weak in:
+1. Css
+Feedback:
+1.It is good thing to make us work as team
+2.Good support through out the work.
+
+
